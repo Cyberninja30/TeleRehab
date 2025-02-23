@@ -1,2 +1,2 @@
-# S-MediTech
+# MediTech
  
