@@ -1,4 +1,3 @@
-
 # TeleRehab
 
 A smart and accessible **TeleRehabilitation platform** designed to assist **stroke survivors, paralyzed individuals, and geriatric patients** in performing prescribed physiotherapy exercises remotely in a **gamified and interactive manner**.
@@ -41,6 +40,13 @@ TeleRehabilitation aims to revolutionize traditional rehabilitation methods by o
 - Node.js and npm  
 - MongoDB/PostgreSQL  
 - Git
+  
+## 🎥 Demo Video
+
+<video width="640" height="360" controls>
+  <source src="demo/teleRehab-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Installation
 
